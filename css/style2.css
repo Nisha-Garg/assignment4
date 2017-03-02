@@ -1,0 +1,11 @@
+.form-control{
+    width:70%;
+}
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+.avatar{
+    width:100%
+}
